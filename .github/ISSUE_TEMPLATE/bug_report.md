@@ -11,8 +11,8 @@ assignees: ''
 
 ## Información General
 - **ID de la Incidencia:** INC00#
-- **Fecha:** 10/10/2024
-- **Reportado por:** Juan Pérez
+- **Fecha:**
+- **Reportado por:** 
 
 ---
 
@@ -24,10 +24,6 @@ assignees: ''
 
 ---
 
-## Pasos para Reproducir
-
----
-
 ## Resultado Esperado
 La aplicación debería mostrar un mensaje de error indicando que el título es obligatorio antes de permitir publicar.
 
@@ -35,9 +31,16 @@ La aplicación debería mostrar un mensaje de error indicando que el título es 
 
 ## Resultado Obtenido
 La aplicación permite publicar sin un título, lo que genera una publicación con un campo de título vacío.
+## Pasos para Reproducir
 
 ---
 
 ## Evidencia
 - **Capturas de Pantalla:** [Enlace a la captura de pantalla]
 - **Video:** [Enlace al video]
+
+## Contexto
+
+---
+
+## Información adicional
