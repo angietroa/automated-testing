@@ -21,7 +21,6 @@ assignees: ''
 - **Funcionalidad Afectada:** 
 - **Descripción Detallada:**
 
-
 ---
 
 ## Resultado Esperado
@@ -39,7 +38,11 @@ La aplicación permite publicar sin un título, lo que genera una publicación c
 - **Capturas de Pantalla:** [Enlace a la captura de pantalla]
 - **Video:** [Enlace al video]
 
+---
+
 ## Contexto
+- **Sistema operativo:**
+- **Navegador:**
 
 ---
 
