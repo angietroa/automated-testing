@@ -10,7 +10,7 @@ assignees: ''
 # Reporte de Incidencia
 
 ## Información General
-- **ID de la Incidencia:** INC00#
+- **ID de la Incidencia:** P00#
 - **Fecha:**
 - **Reportado por:** 
 
