@@ -30,6 +30,9 @@ La aplicación debería mostrar un mensaje de error indicando que el título es 
 
 ## Resultado Obtenido
 La aplicación permite publicar sin un título, lo que genera una publicación con un campo de título vacío.
+
+---
+
 ## Pasos para Reproducir
 
 ---
@@ -41,7 +44,7 @@ La aplicación permite publicar sin un título, lo que genera una publicación c
 ---
 
 ## Contexto
-- **Sistema operativo:**
+- **Sistema Operativo:**
 - **Navegador:**
 
 ---
