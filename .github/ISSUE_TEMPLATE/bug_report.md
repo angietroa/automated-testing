@@ -10,26 +10,21 @@ assignees: ''
 # Reporte de Incidencia
 
 ## Información General
-- **ID de la Incidencia:** P00#
-- **Fecha:**
+- **ID de la Incidencia:** IS00#
+- **Título:** 
+- **Funcionalidad Afectada:** 
+- **Fecha:** 
 - **Reportado por:** 
 
 ---
 
-## Descripción de la Incidencia
-- **Título:** 
-- **Funcionalidad Afectada:** 
-- **Descripción Detallada:**
-
----
-
 ## Resultado Esperado
-La aplicación debería mostrar un mensaje de error indicando que el título es obligatorio antes de permitir publicar.
+La aplicación debería ...
 
 ---
 
 ## Resultado Obtenido
-La aplicación permite publicar sin un título, lo que genera una publicación con un campo de título vacío.
+La aplicación permite ...
 
 ---
 
@@ -38,14 +33,14 @@ La aplicación permite publicar sin un título, lo que genera una publicación c
 ---
 
 ## Evidencia
-- **Capturas de Pantalla:** [Enlace a la captura de pantalla]
 - **Video:** [Enlace al video]
 
 ---
 
 ## Contexto
-- **Sistema Operativo:**
-- **Navegador:**
+- **Versión del Aplicativo:** 
+- **Sistema Operativo:** 
+- **Navegador:** 
 
 ---
 
